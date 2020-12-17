@@ -1,0 +1,19 @@
+Start
+
+	input Num 1
+	
+	input Num 2
+
+	sum = Num 1 + Num 2
+
+	sub = Num 1 - Num 2
+
+	div = Num 1 / Num 2
+
+	mul = Num 1 * Num 2
+	
+	Print Sum,sub,div,mul
+
+End
+
+ 
